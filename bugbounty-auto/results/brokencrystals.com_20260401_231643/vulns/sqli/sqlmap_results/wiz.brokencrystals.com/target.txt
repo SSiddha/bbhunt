@@ -1,0 +1,1 @@
+https://wiz.brokencrystals.com/marketplace?portfolio_query_filter=&videosrc=https://www.youtube-nocookie.com/embed/MPYlxeG-8_w?controls=0 (GET)  # /usr/bin/sqlmap -m results/brokencrystals.com_20260401_231643/vulns/sqli/targets_limited.txt --batch --random-agent --level=2 --risk=1 --threads=10 --output-dir=results/brokencrystals.com_20260401_231643/vulns/sqli/sqlmap_results

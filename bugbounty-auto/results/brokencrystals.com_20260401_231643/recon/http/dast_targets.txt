@@ -1,0 +1,10 @@
+http://auth.brokencrystals.com
+http://auth.qa.brokencrystals.com
+https://auth.brokencrystals.com
+https://auth.qa.brokencrystals.com
+https://qa.brokencrystals.com
+https://stable.brokencrystals.com
+https://test.brokencrystals.com
+https://wiz.brokencrystals.com
+http://test.brokencrystals.com
+http://wiz.brokencrystals.com

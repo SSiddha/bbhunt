@@ -1,0 +1,10 @@
+[SPF] MISSING — no SPF record on brokencrystals.com
+[0;31m[1m[FINDING][0m SPF record missing on brokencrystals.com
+[DMARC] MISSING — no DMARC record on brokencrystals.com
+[0;31m[1m[FINDING][0m DMARC record missing on brokencrystals.com
+[CAA] FOUND: ;; communications error to 10.200.58.101#53: timed out
+;; communications error to 10.200.58.101#53: timed out
+;; communications error to 10.200.58.101#53: timed out
+;; communications error to 192.168.159.2#53: timed out
+;; no servers could be reached
+[ZONE TRANSFER] Refused (expected)

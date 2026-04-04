@@ -1,0 +1,6 @@
+k8s-default-ingress-697ad5e9f6-716813763.us-east-1.elb.amazonaws.com
+vulnerableapps.brokencrystals.com
+vulnerableapps.brokencrystals.com
+vulnerableapps.brokencrystals.com
+vulnerableapps.brokencrystals.com
+sniffer.brokencrystals.com

